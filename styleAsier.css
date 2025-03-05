@@ -11,3 +11,11 @@ img {
     height: auto;
     border-radius: 8px;
 }
+ol {
+    color: #333;
+    font-size: 18px;
+}
+
+li {
+    margin: 10px 0;
+}
